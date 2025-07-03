@@ -1,69 +1,59 @@
-<h1 align="center">🌹 Hi, I'm Yalda</h1>
+<h1 align="center">🌹🐍 Hi, I'm Yalda</h1>
 <p align="center">
-  <strong>Front-End Developer & WordPress Artist</strong><br>
-  <em>"Coding with elegance, designing with passion"</em> ✨
+  <strong>Front-End Developer & WordPress Enchantress</strong><br>
+  <em>"Where code meets crimson elegance"</em> 🔥
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XEgjuF9c32qBk1ZXky/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/3o7TKWpgQSfzRqQZAI/giphy.gif" width="200">
 </p>
 
 ---
 
-## 🎀 About Me
+## 🔥 Scarlet Skills
 
-I'm Yalda, a creative front-end developer and WordPress specialist from Iran 🇮🇷. I blend technical skills with artistic vision to build beautiful, functional websites.
-
-- 🌸 **Currently blooming:** Advanced JavaScript & React  
-- 🎨 **Artistic skills:** WordPress customization, UI/UX design  
-- 🧵 **Crafting with:** Elementor, WooCommerce, CSS animations  
-- ✨ **Philosophy:** Technology should be as beautiful as it is functional  
-
----
-
-## 🌹 Tech Garden
-
-| 💻 Development          | 🏰 WordPress Castle       | 🛠️ Tools                 |
-|-------------------------|--------------------------|--------------------------|
-| HTML5, CSS3, JavaScript | Theme Development        | VS Code, Git, Figma      |
-| PHP, jQuery             | Plugin Customization     | LocalWP, Chrome DevTools |
-| Responsive Design       | Performance Optimization | Adobe Creative Suite     |
+| 💻 Technical Arts       | 🏺 WordPress Mystique    | 🛠️ Crimson Tools       |
+|-------------------------|-------------------------|-------------------------|
+| HTML5, CSS3, JavaScript | Theme Sorcery           | VS Code (Dark Ritual)   |
+| PHP, React              | Plugin Alchemy          | Git Bloodflow           |
+| Responsive Enchantment  | WooCommerce Spells      | Chrome DevFire          |
 
 ---
 
-## 🏰 Featured Creations
+## 🩸 Blood-Red Projects
 
-### 🌹 Royal WordPress Theme  
-**Tech:** WordPress, SCSS, JavaScript  
-An elegant theme with floral animations and royal aesthetics.  
+### 🏰 Vampire WordPress Theme  
+**Tech:** WordPress, CSS Animations, JavaScript  
+A seductive dark-red theme with rose petal effects.  
+🔗 *Coming under blood moon*
+
+---
+
+### 🐍 Serpent E-Commerce  
+Hypnotic WooCommerce integration with snake motifs.  
 🔗 *Private collection*
 
 ---
 
-### 🎀 E-Commerce Boutique  
-Custom WooCommerce solution with delicate UI elements.  
-🔗 *Client project - NDA protected*
-
----
-
-## 📊 GitHub Blossoms
+## 📈 Crimson Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&bg_color=ffdeeb&title_color=ff1493&icon_color=ff69b4&text_color=8b008b" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=radical&bg_color=ffdeeb&title_color=ff1493&text_color=8b008b" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=dark&bg_color=300000&title_color=ff0000&icon_color=ff4444&text_color=ff8888" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=dark&bg_color=300000&title_color=ff0000&text_color=ff8888" height="180"/>
 </p>
 
 ---
 
-## 💌 Let's Create Magic
+## 🌹 Scarlet Connections
 
-- 📧 **Email:** yaldatwin@gmail.com  
-- 💬 **Telegram:** [@yaldatwin](https://t.me/yaldatwin)  
-- 🎨 **Portfolio:** *Under construction*  
-- 🌸 **Based in:** Beautiful Iran  
+- 📧 **Blood Scroll:** yaldatwin@gmail.com  
+- 🐍 **Serpent Whisper:** [@yaldatwin](https://t.me/yaldatwin)  
+- 🏺 **Portfolio:** *Brewing in crimson cauldron*  
+- 🌘 **Origins:** Persian Night  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VV26bW4lFu/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/3o7TKUZls2bZg6QztW/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/3o7TKR1l5f4QZQvT5e/giphy.gif" width="150">
 </p>
 
-> "Like roses in code, my work blooms with elegance" 🌹✨
+> "My code bleeds elegance, my designs breathe fire" 🔥🌹
