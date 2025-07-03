@@ -1,74 +1,69 @@
-<h1 align="center">🌹💀 Hi, I'm Yalda</h1>
+<h1 align="center">🌹 Hi, I'm Yalda</h1>
 <p align="center">
-  <strong>Front-End Developer & WordPress Designer</strong><br>
-  <em>"Coding with passion, designing with bones"</em> 🦴
+  <strong>Front-End Developer & WordPress Artist</strong><br>
+  <em>"Coding with elegance, designing with passion"</em> ✨
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-FF0000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/PHP-AA0000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-DD0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-BB0000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ6d2J6a2l3N3V2bWJtY2VlY3V0bWJ5Y2J6eGZ1bmR1dGZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/XEgjuF9c32qBk1ZXky/giphy.gif" width="200">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎀 About Me
 
-I'm Yalda, a self-taught front-end developer and WordPress enthusiast from Iran 🇮🇷. I enjoy creating clean, responsive websites with a special love for WordPress customization.
+I'm Yalda, a creative front-end developer and WordPress specialist from Iran 🇮🇷. I blend technical skills with artistic vision to build beautiful, functional websites.
 
-- 🎯 **Currently learning:** JavaScript & theme development  
-- 🛠 **Skilled in:** WordPress, PHP, HTML, CSS  
-- 🧩 **Exploring:** Page builders (Elementor), WooCommerce  
-- 🌹 **Passion:** Beautiful yet functional designs  
-
----
-
-## 🦴 Tech Stack
-
-| 👩‍💻 Front-End            | 🌹 WordPress Skills           | 💀 Tools & Platforms         |
-|--------------------------|------------------------------|------------------------------|
-| HTML, CSS, JavaScript     | Theme Customization, Elementor | WordPress, PHP, GitHub       |
-| Responsive Design         | WP Plugins, SEO Basics       | VSCode, LocalWP, XAMPP       |
+- 🌸 **Currently blooming:** Advanced JavaScript & React  
+- 🎨 **Artistic skills:** WordPress customization, UI/UX design  
+- 🧵 **Crafting with:** Elementor, WooCommerce, CSS animations  
+- ✨ **Philosophy:** Technology should be as beautiful as it is functional  
 
 ---
 
-## 🏚️ Featured Projects
+## 🌹 Tech Garden
 
-### 🏡 Real Estate WordPress Site  
-**Tech:** WordPress, Elementor, HTML, CSS  
-A modern real estate website with skeleton-themed animations.  
-🔗 *Coming Soon*
-
----
-
-### 💀 WordPress Theme Customization  
-Custom dark-red skeleton themes with rose accents.  
-🔗 *Private client work*
+| 💻 Development          | 🏰 WordPress Castle       | 🛠️ Tools                 |
+|-------------------------|--------------------------|--------------------------|
+| HTML5, CSS3, JavaScript | Theme Development        | VS Code, Git, Figma      |
+| PHP, jQuery             | Plugin Customization     | LocalWP, Chrome DevTools |
+| Responsive Design       | Performance Optimization | Adobe Creative Suite     |
 
 ---
 
-## 📈 GitHub Stats
+## 🏰 Featured Creations
+
+### 🌹 Royal WordPress Theme  
+**Tech:** WordPress, SCSS, JavaScript  
+An elegant theme with floral animations and royal aesthetics.  
+🔗 *Private collection*
+
+---
+
+### 🎀 E-Commerce Boutique  
+Custom WooCommerce solution with delicate UI elements.  
+🔗 *Client project - NDA protected*
+
+---
+
+## 📊 GitHub Blossoms
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=synthwave" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=synthwave" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&bg_color=ffdeeb&title_color=ff1493&icon_color=ff69b4&text_color=8b008b" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=radical&bg_color=ffdeeb&title_color=ff1493&text_color=8b008b" height="180"/>
 </p>
 
 ---
 
-## 🌹 Let's Connect
+## 💌 Let's Create Magic
 
 - 📧 **Email:** yaldatwin@gmail.com  
-- 💀 **Telegram:** [@yaldatwin](https://t.me/yaldatwin)  
-- 🦴 **Portfolio:** Coming Soon  
-- 🌍 **Location:** Iran  
+- 💬 **Telegram:** [@yaldatwin](https://t.me/yaldatwin)  
+- 🎨 **Portfolio:** *Under construction*  
+- 🌸 **Based in:** Beautiful Iran  
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VV26bW4lFu/giphy.gif" width="150">
+</p>
 
-> "Even skeletons need beautiful websites" 💀🌹
+> "Like roses in code, my work blooms with elegance" 🌹✨
