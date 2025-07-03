@@ -1,59 +1,74 @@
-<h1 align="center">🌹🐍 Hi, I'm Yalda</h1>
+<h1 align="center">🌹💀 Hi, I'm Yalda</h1>
 <p align="center">
-  <strong>Front-End Developer & WordPress Enchantress</strong><br>
-  <em>"Where code meets crimson elegance"</em> 🔥
+  <strong>Front-End Developer & WordPress Designer</strong><br>
+  <em>"Coding with passion, designing with bones"</em> 🦴
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKWpgQSfzRqQZAI/giphy.gif" width="200">
+  <img src="https://img.shields.io/badge/WordPress-FF0000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-AA0000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-DD0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-BB0000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
----
-
-## 🔥 Scarlet Skills
-
-| 💻 Technical Arts       | 🏺 WordPress Mystique    | 🛠️ Crimson Tools       |
-|-------------------------|-------------------------|-------------------------|
-| HTML5, CSS3, JavaScript | Theme Sorcery           | VS Code (Dark Ritual)   |
-| PHP, React              | Plugin Alchemy          | Git Bloodflow           |
-| Responsive Enchantment  | WooCommerce Spells      | Chrome DevFire          |
-
----
-
-## 🩸 Blood-Red Projects
-
-### 🏰 Vampire WordPress Theme  
-**Tech:** WordPress, CSS Animations, JavaScript  
-A seductive dark-red theme with rose petal effects.  
-🔗 *Coming under blood moon*
-
----
-
-### 🐍 Serpent E-Commerce  
-Hypnotic WooCommerce integration with snake motifs.  
-🔗 *Private collection*
-
----
-
-## 📈 Crimson Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=dark&bg_color=300000&title_color=ff0000&icon_color=ff4444&text_color=ff8888" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=dark&bg_color=300000&title_color=ff0000&text_color=ff8888" height="180"/>
+  <img src="https://media.giphy.com/media/XEgjuF9c32qBk1ZXky/giphy.gif" width="150">
 </p>
 
 ---
 
-## 🌹 Scarlet Connections
+## 🚀 About Me
 
-- 📧 **Blood Scroll:** yaldatwin@gmail.com  
-- 🐍 **Serpent Whisper:** [@yaldatwin](https://t.me/yaldatwin)  
-- 🏺 **Portfolio:** *Brewing in crimson cauldron*  
-- 🌘 **Origins:** Persian Night  
+I'm Yalda, a self-taught front-end developer and WordPress enthusiast from Iran 🇮🇷. I enjoy creating clean, responsive websites with a special love for WordPress customization.
+
+- 🎯 Currently learning: JavaScript & theme development  
+- 🛠 Skilled in: WordPress, PHP, HTML, CSS  
+- 🧩 Exploring: Page builders (Elementor), WooCommerce  
+- 🌹 Passion: Beautiful yet functional designs  
+
+---
+
+## 🦴 Tech Stack
+
+| 👩‍💻 Front-End            | 🌹 WordPress Skills           | 💀 Tools & Platforms         |
+|--------------------------|------------------------------|------------------------------|
+| HTML, CSS, JavaScript     | Theme Customization, Elementor | WordPress, PHP, GitHub       |
+| Responsive Design         | WP Plugins, SEO Basics       | VSCode, LocalWP, XAMPP       |
+
+---
+
+## 🏚 Featured Projects
+
+### 🏡 Real Estate WordPress Site  
+Tech: WordPress, Elementor, HTML, CSS  
+A modern real estate website with skeleton-themed animations.  
+🔗 *Coming Soon*
+
+---
+
+### 💀 WordPress Theme Customization  
+Custom dark-red skeleton themes with rose accents.  
+🔗 *Private client work*
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUZls2bZg6QztW/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/3o7TKR1l5f4QZQvT5e/giphy.gif" width="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=synthwave" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=synthwave" height="180"/>
 </p>
 
-> "My code bleeds elegance, my designs breathe fire" 🔥🌹
+---
+
+## 🌹 Let's Connect
+
+- 📧 Email: yaldatwin@gmail.com  
+- 💀 Telegram: [@yaldatwin](https://t.me/yaldatwin)  
+- 🦴 Portfolio: Coming Soon  
+- 🌍 Location: Iran  
+
+---
+
+> "Even skeletons need beautiful websites" 💀🌹
