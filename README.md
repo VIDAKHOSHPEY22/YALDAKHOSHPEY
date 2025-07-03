@@ -1,76 +1,63 @@
-<h1 align="center">🌌 Yalda Khoshpey</h1>
+<h1 align="center">✨ Yalda Khoshpey</h1>
 <p align="center">
-  <strong>Front-End Developer</strong><br>
-  <em>"Crafting beautiful digital experiences"</em> ✨
+  <strong>Front-End Developer | UI Specialist</strong><br>
+  <em>"Transforming ideas into pixel-perfect reality"</em> 🎨
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZqY2VtbjB0ZzNyamlnbmVjZ2JqY2J6eGZ1bmR1dGZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEgjuF9c32qBk1ZXky/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF6B8B&center=true&width=435&lines=HTML%20%7C%20CSS%20%7C%20JavaScript;React%20%7C%20Python%20%7C%20WordPress" alt="Technologies" />
 </p>
 
 ---
 
-## 💻 Skills
+## 🌈 Technical Palette
 
-### Front-End Development
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js (Hooks, Context API)
-- Responsive Web Design
-- CSS Preprocessors (Sass)
-- Version Control (Git)
+<div align="center">
 
-### Additional Skills
-- Python (Basic)
-- WordPress Theme Development
-- UI/UX Principles
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</div>
 
 ---
 
-## 🏆 Projects
+## 🏗️ Featured Projects
 
-### E-Commerce Website
-**Tech:** React, CSS Modules  
-- Product filtering system
-- Responsive cart functionality
-- 🔗 [Live Demo](https://example.com)
+### Modern Dashboard UI
+**Tech:** React, Tailwind CSS  
+✔️ Custom data visualization  
+✔️ Responsive layout  
+✔️ Dark/light mode  
 
-### Portfolio Template  
+### E-Learning Platform  
 **Tech:** HTML5, CSS3, JavaScript  
-- Smooth scroll animations
-- Mobile-first design
-- 🔗 [GitHub Repo](https://github.com/example)
+✔️ Interactive course player  
+✔️ Accessibility optimized  
+✔️ Progressive enhancement  
 
 ---
 
-## 📞 Contact
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:yaldatwin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/yaldatwin">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/YALDAKHOSHPEY">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B8B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaldatwin@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaldatwin)
+[![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YALDAKHOSHPEY)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-> "Clean code and beautiful design are my passion" 💫
+<div align="center">
+  
+```text
+🌱 Currently learning: Advanced React Patterns
+🚧 Working on: Portfolio redesign
+🔍 Seeking: Front-end opportunities
