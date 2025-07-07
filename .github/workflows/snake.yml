@@ -1,0 +1,18 @@
+name: Pink Snake Activity
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # اجرا هر 15 دقیقه
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  pink-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Pink Snake
+        uses: ahmadnassri/action-snake@v1
+        with:
+          color: 'ff1493'  # رنگ صورتی پررنگ
