@@ -1,18 +1,26 @@
-name: Pink Snake Activity
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # اجرا هر 15 دقیقه
-  push:
-    branches:
-      - main
+    - cron: "0 */12 * * *"  # هر ۱۲ ساعت اجرا می‌شود
   workflow_dispatch:
 
 jobs:
-  pink-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Run Pink Snake
-        uses: ahmadnassri/action-snake@v1
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
-          color: 'ff1493'  # رنگ صورتی پررنگ
+          github_user_name: YALDAKHOSHPEY
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+
+      - name: Commit & Push snake.svg
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
