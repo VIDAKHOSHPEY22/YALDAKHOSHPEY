@@ -125,6 +125,18 @@ Let’s create something beautiful — one div at a time! 🚀
 
 ## 😼 Meme Vibes
 
+<div align="center">
+
 ![Serious Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-*"Coding with claws of fury! 😼⌨️🔥"*
+<blockquote style="font-style: italic; color: #9b59b6; max-width: 400px;">
+
+“My code runs perfectly on my machine.  
+Everywhere else? That’s someone else’s problem.” 😂😎🖥️  
+
+<span style="color: #e67e22;">*Me, yelling at Vida:*</span>  
+<span style="font-weight: bold;">“Come save me from this madness — and my code!”</span> 🙃💻🔥
+
+</blockquote>
+
+</div>
