@@ -123,9 +123,8 @@ Let’s create something beautiful — one div at a time! 🚀
 </div>
 
 
-## 🎀 Just Vibes
+## 😼 Meme Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="220" alt="Cat with glasses behind laptop" /><br/>
-  <em style="color: #9B30FF;">"When coding gets spooky, stay cool and keep going! 👓💻🐱"</em>
-</p>
+![Serious Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+*"Coding with claws of fury! 😼⌨️🔥"*
