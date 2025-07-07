@@ -114,6 +114,13 @@ Let’s create something beautiful — one div at a time! 🚀
   </a>
 </p>
 
+---
+
+## 🐍 Pink Snake Activity
+
+<p align="center">
+  <img src="https://github.com/YALDAKHOSHPEY/VIDAKHOSHPEY22/actions/workflows/snake.yml/badge.svg" alt="Pink Snake Activity"/>
+</p>
 
 ---
 ## 🎀 Just Vibes
