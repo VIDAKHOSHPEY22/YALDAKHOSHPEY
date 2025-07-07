@@ -94,28 +94,31 @@ Let’s create something beautiful — one div at a time! 🚀
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
-  <a href="mailto:yaldatwin@gmail.com" title="Email">
+  <a href="mailto:yaldatwin@gmail.com" title="Email" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-9B30FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/yaldatwin" title="Telegram">
+  <a href="https://t.me/yaldatwin" title="Telegram" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://github.com/YALDAKHOSHPEY" title="GitHub">
+  <a href="https://github.com/YALDAKHOSHPEY" title="GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
-  <a href="https://dev.to/yaldakhoshpey" title="Dev.to">
+  <a href="https://dev.to/yaldakhoshpey" title="Dev.to" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Dev.to-DA70D6?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://discordapp.com/users/yaldatwin" title="Discord: yaldatwin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7F3FBF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
----
 
+---
 ## 🎀 Just Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220" alt="Just vibes"/><br/>
-  <em style="color: #DA70D6;">"Dream in code, live in color, and vibe with my twin 🌸"</em>
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="220" alt="Cat with glasses behind laptop" /><br/>
+  <em style="color: #9B30FF;">"When coding gets spooky, stay cool and keep going! 👓💻🐱"</em>
 </p>
