@@ -125,18 +125,24 @@ Let’s create something beautiful — one div at a time! 🚀
 
 ## 😼 Meme Vibes
 
-<div align="center">
+**👯‍♀️ Yalda & Vida**
 
-![Serious Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
+  <br/>
+  <em>"Typing like a legend. Panicking like a human." 😹💻</em>
+</p>
 
-<blockquote style="font-style: italic; color: #9b59b6; max-width: 400px;">
-
-“My code runs perfectly on my machine.  
-Everywhere else? That’s someone else’s problem.” 😂😎🖥️  
-
-<span style="color: #e67e22;">*Me, yelling at Vida:*</span>  
-<span style="font-weight: bold;">“Come save me from this madness — and my code!”</span> 🙃💻🔥
-
-</blockquote>
-
-</div>
+> **Yalda:**  
+> *"Coding at 3AM like I’m saving the world...  
+> but it's just a missing semicolon."* 😹  
+>
+> **Vida:**  
+> *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
+>
+> **Yalda:**  
+> *"Powered by coffee, chaos, and Ctrl+Z."* ☕💻🌀  
+>
+> **Vida:**  
+> *"When things get weird, I just call Yalda and say:*  
+> *‘Come on, let’s build a robot and take over GitHub!’"* 🤖👯‍♀️😂💪🏻
