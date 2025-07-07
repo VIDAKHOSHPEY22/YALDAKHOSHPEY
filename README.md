@@ -1,31 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BA55D3&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Front-End+%26+WordPress+Developer;Crafting+Magical+UIs+with+Passion+!" alt="Typing Animation"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Front-End+Developer;Building+Magical+UIs+!" alt="Typing Animation"/>
 </div>
 
 <p align="center">
   <strong style="color:#9B30FF;">💖 Front-End Developer & WordPress Customizer</strong><br/>
-  <em style="color:#FF69B4;">"With passion in pixels and calm in code, I bring dreams to the browser."</em>
+  <em style="color:#FF1493;">"Passion in pixels, calm in code."</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-9B30FF?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/PHP-DA70D6?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-EE82EE?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/WordPress-8A2BE2?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-D580FF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-DA70D6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-DDA0DD?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-EE82EE?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-D8B4FE?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+</p>
+
+---
+## 💫 About Me
+
+Hey there! I’m <strong>Yalda</strong> — a front-end developer with a passion for WordPress and eye-catching UI design.  
+Every line of my code is sprinkled with creativity, precision, and a bit of magic ✨
+
+<p align="center">
+  💜 I proudly build and grow alongside my coding twin  
+  <a href="https://github.com/VIDAKHOSHPEY22" style="color:#DDA0DD; text-decoration: none; font-weight: bold;">🌸 Vida</a>,  
+  the brilliant mind who shares my love for turning ideas into vibrant websites.
 </p>
 
 ---
 
-## 💫 About Me
+### 🎨 What I bring to the browser:
+- 🎯 Pixel-perfect responsive UIs with a touch of WordPress magic  
+- 🌱 Currently leveling up in JavaScript & Python  
+- 💡 Inspired by elegant design, meaningful code, and bold imagination  
 
-I'm **Yalda**, a creative front-end developer and WordPress enthusiast.  
-I’m part of a coding twin duo with [**Vida**](https://github.com/VIDAKHOSHPEY22), where we turn ideas into vibrant web experiences 💜
-
-- 🔍 Focused on responsive UI & WordPress magic  
-- 🌱 Exploring JavaScript & Python  
-- 💡 Inspired by clean design and meaningful code
+Let’s create something beautiful — one div at a time! 🚀
 
 ---
 
@@ -44,34 +55,41 @@ I’m part of a coding twin duo with [**Vida**](https://github.com/VIDAKHOSHPEY2
 
 ## 🧩 Tech Stack
 
-| Front-End         | WordPress Tools                   | Tools & Platforms              |
-|------------------|---------------------------------|-------------------------------|
-| HTML, CSS, JS     | Elementor, SEO, WooCommerce      | GitHub, VSCode, XAMPP, LocalWP |
-| Responsive Design | Custom Themes, Plugins, PHP      | Figma, Trello                 |
+🎨 **Front-End**
+- HTML5, CSS3, JavaScript  
+- Responsive layouts, animations, pixel-perfect design
+
+🪄 **WordPress Magic**
+- Elementor, WooCommerce, SEO  
+- Custom themes & plugins using PHP
+
+🧰 **Tools & Platforms**
+- GitHub, VSCode, XAMPP, LocalWP  
+- Figma for design, Trello for task flow
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌈 30 Days Front-End Challenge  
-A daily creative series with HTML, CSS, JS  
-🔗 [See it on GitHub »](https://github.com/YALDAKHOSHPEY/30days-frontend)
+🌈 **30 Days Front-End Challenge**  
+💡 Daily coding challenge focused on UI magic using **HTML**, **CSS**, and **JavaScript**  
+🔗 [Check it out on GitHub »](https://github.com/YALDAKHOSHPEY/30days-frontend)
 
-### 🎓 CS50x Harvard  
-Completed C, Python, and web projects  
-🔗 [Explore Repository »](https://github.com/YALDAKHOSHPEY/cs50x)
+🎓 **CS50x – Harvard**  
+🧠 Hands-on journey through **C**, **Python**, and full-stack fundamentals  
+🔗 [Browse the Repo »](https://github.com/YALDAKHOSHPEY/cs50x)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center" style="background: #2a004d; border-radius: 15px; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=dark&title_color=DA70D6&text_color=E6E6FA&icon_color=FF69B4&bg_color=2a004d&hide_border=true" height="180" style="border-radius: 15px; box-shadow: 0 0 15px #9B30FF;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=dark&title_color=DA70D6&text_color=E6E6FA&bg_color=2a004d&hide_border=true" height="180" style="border-radius: 15px; box-shadow: 0 0 15px #FF69B4; margin-left: 20px;"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&icon_color=FF69B4&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&bg_color=00000000" height="180" />
 </p>
 
-<p align="center" style="background: #2a004d; border-radius: 15px; padding: 15px; margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YALDAKHOSHPEY&theme=dark&hide_border=true&background=2a004d&stroke=DA70D6&fire=FF69B4&currStreakLabel=DA70D6&sideLabels=E6E6FA&sideNums=FF69B4" height="150" style="border-radius: 15px; box-shadow: 0 0 20px #9B30FF;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YALDAKHOSHPEY&theme=default&hide_border=true&background=00000000&ring=BA55D3&fire=FF69B4&currStreakLabel=FF69B4&sideNums=4B0082&sideLabels=4B0082" height="150"/>
 </p>
 
 ---
