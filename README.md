@@ -119,11 +119,7 @@ Let’s create something beautiful — one div at a time! 🚀
 ## 🐍 GitHub Activity Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-snake.svg" alt="GitHub Snake Animation" style="filter: hue-rotate(290deg);"/>
 </p>
 
 ---
