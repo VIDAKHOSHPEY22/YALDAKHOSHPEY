@@ -116,11 +116,12 @@ Let’s create something beautiful — one div at a time! 🚀
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Activity Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/main/dist/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 
 ## 🎀 Just Vibes
 
